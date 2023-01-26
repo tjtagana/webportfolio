@@ -5,12 +5,11 @@
 }
 
 body {
-	font-family: roboto;
+	font-family: Roboto;
 }
 
 nav {
 	background-color: #b08968;
-	font-weight: bolder;
 	width: 100%;
 	height: 55px;
 	margin: 0 auto;
